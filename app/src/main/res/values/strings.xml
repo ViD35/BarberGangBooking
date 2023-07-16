@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Citas BarberGang</string>
+    <string name="title_activity_view_status_screen">ViewStatusScreen</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Barber Gang</string>
+    <string name="nav_header_subtitle">With attitude</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_acercade">Acerca de</string>
+    <string name="menu_configuracion">Ajustes de cuenta</string>
+
+    <string name="ir_agenda_cita">Agendar cita</string>
+    <string name="ir_consulta_cita">Consultar cita</string>
+    <string name="ir_historial">Historial</string>
+
+    <string name="status_online">En linea</string>
+    <string name="status_ocupado">Ocupado</string>
+    <string name="status_offline">No disponible</string>
+    <string name="text_alias">Alias:</string>
+    <string name="text_nombre">Nombre:</string>
+    <string name="text_apellido">Apellido:</string>
+    <string name="text_fechaNacimiento">Fecha de nacimiento:</string>
+    <string name="text_telefono">Teléfono</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="txt_nombre">Nombre(s)</string>
+    <string name="txt_telefono">528334445555</string>
+    <string name="txt_alias">Nombre preferido</string>
+    <string name="txt_apellido">Apellido(s)</string>
+    <string name="text_titulo_booking">Selecciona a un barbero</string>
+    <string name="text_titulo2_booking">Escoge una fecha y hora para tu cita</string>
+    <string name="text_titulo3_booking">¿Quién va a asistir a la cita?</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_confirmar">Confirmar</string>
+    <string name="text_titulo_resumen">Resumen de cita</string>
+    <string name="btn_cancelar_cita">Cancelar cita</string>
+    <string name="btn_editar_datos">Editar datos</string>
+</resources>
